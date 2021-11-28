@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+center{
+    width: 1000px;
+    margin: auto;
+
+}
+.container{
+   
+    
+    
+}
+.logo{
+    
+   
+    
+  
+}
+.arama{
+     background-color: rgb(170, 167, 167);
+}
+h1{
+    font-size: 20px;
+}
+.tarz{
+    background-color: yellow;
+    border-radius: 50px;
+    text-shadow: yellow;
+
+}
+.tus{
+    float: left;
+    
+}
+.card{
+    float: left;
+    background-color: rgb(51, 51, 160);
+    margin-left: 1px;
+   width: 33%; 
+   height: 100px;
+
+    
+    
+
+}
+.foot{
+    width: 1000px;
+
+    
+
+}
